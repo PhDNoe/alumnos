@@ -3,7 +3,7 @@ Practica con python y mysql. Base de datos de alumnos
 
 ---
 * **Base de datos:** Creo una base de datos llamada `facultad`
-* ** Tabla:** Creo una tabla llamada alumnos
+* **Tabla:** Creo una tabla llamada `alumnos`
 
 En la tabla de alumnos vamos a guardar la siguiente información:
 
