@@ -1,0 +1,6 @@
+
+# cache
+__pycache__
+
+# configuracion base de datos
+db_config.py
